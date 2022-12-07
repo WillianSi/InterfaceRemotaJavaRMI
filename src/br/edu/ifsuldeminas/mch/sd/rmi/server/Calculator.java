@@ -74,10 +74,11 @@ public class Calculator implements Operations {
 	
 	public String dec(Number x) {
 		String result = Integer.toBinaryString((int) x.doubleValue());
+		log(x, result);
 		return result;
 	}
 	
-	public String com(Number x) {
+	public String hex(Number x) {
 		String result = Integer.toHexString((int) x.doubleValue());
 		log(x, result);
 		return result;

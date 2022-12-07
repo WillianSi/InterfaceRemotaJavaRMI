@@ -22,7 +22,7 @@ public class Client {
 			System.out.println("Modulo: " + calc.mod(15.0,8.0));
 			System.out.println("Fatorial: " + calc.fat(6.0));
 			System.out.println("Converção decimal: " + calc.dec(6));
-			System.out.println("Converção hexadecimal: " + calc.com(6));
+			System.out.println("Converção hexadecimal: " + calc.hex(6));
 			
 			List<String> lastOperations = calc.lastOperations(2);
 			for (String operation : lastOperations)

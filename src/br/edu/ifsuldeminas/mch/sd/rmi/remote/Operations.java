@@ -15,7 +15,7 @@ public interface Operations extends Remote {
 	Number mod(Number x, Number y) throws RemoteException;
 	Number fat(Number x) throws RemoteException;
 	String dec(Number x) throws RemoteException;
-	String com(Number x) throws RemoteException;
+	String hex(Number x) throws RemoteException;
 	List<String> lastOperations(int howMany) throws RemoteException;
 	List<String> lastOperations() throws RemoteException;
 }
