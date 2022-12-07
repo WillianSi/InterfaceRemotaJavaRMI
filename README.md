@@ -20,4 +20,4 @@ As próxima seções explica cada uma dessas etapas.
 Siga as seguintes etapas para rodar o projeto:
 1. Execute o m ́etodo main da classe Server;
 2. Execute o m ́etodo main da classe Client;
-3. Fa ̧ca altera ̧c ̃oes nas chamadas remotas ao objeto Operations.
+3. Fa ̧ca alterações nas chamadas remotas ao objeto Operations.
