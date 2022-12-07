@@ -9,10 +9,10 @@ consulta. Para o perfeito funcionamento do exemplo  ́e necess ́ario usar a ver
 do Java.
 
 Um servi ̧co RMI  ́e composto por várias partes:
-• Definição da interface remota;
-• Implementação do serviço remoto;
-• Implementação do servidor;
-• Implementação do cliente.
+  • Definição da interface remota;
+  • Implementação do serviço remoto;
+  • Implementação do servidor;
+  • Implementação do cliente.
 
 As próxima seções explica cada uma dessas etapas.
 
