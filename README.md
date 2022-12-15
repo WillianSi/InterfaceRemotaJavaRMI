@@ -12,7 +12,7 @@ Um serviço RMI  é composto por várias partes:
   - Implementação do servidor;
   - Implementação do cliente.
 
-2 Rodando o projeto:
+# :hammer:Rodando o projeto:
 Siga as seguintes etapas para rodar o projeto:
   - Execute o método main da classe Server;
   - Execute o método main da classe Client;
